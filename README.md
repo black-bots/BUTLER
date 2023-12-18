@@ -1,9 +1,10 @@
+<img src="BlackBots-Logo-word.png" width="500">
 # __BUTLER__
 ## **BUTLER**: *Brainy Universal Tool Lifesaving Everyday Routines*
 > *Ongoing Development*
 
 ### DOWNLOAD
-> <img src="https://raw.githubusercontent.com/black-bots/BUTLER/main/-.ico" width="25" height="25"> - **[Get BUTLER](https://---/)**
+> <img src="https://raw.githubusercontent.com/black-bots/BUTLER/main/512x512.png" width="25" height="25"> - **[Get BUTLER](https://---/)**
 
 
 ## HOW TO USE
