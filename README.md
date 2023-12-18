@@ -5,8 +5,6 @@
 ### DOWNLOAD
 > <img src="https://raw.githubusercontent.com/black-bots/BUTLER/main/-.ico" width="25" height="25"> - **[Get BUTLER](https://drive.google.com/file/d/1IqHjwB7ZkwOYyaTMohQDWSjHdOaTSNnd/)**
 
-### Donate | Buy Me a Coffee ☕
-> <img src="https://raw.githubusercontent.com/black-bots/BUTLER/main/don.png" width="25" height="25"> - **$BlackBotsNet**
 
 ## HOW TO USE
 > Say/Ask something audibly.
@@ -15,6 +13,7 @@
 ### **Voice Commands**
 > "Play music"
 > "Open youtube"
+
 
 # Donation Perks
 ## HOW TO USE
@@ -41,6 +40,9 @@
 > "Code a python script" | Creates a python script
 > "Read my manga" | Reads manga from DaoTranslate.com
 
+
+### Donate | Buy Me a Coffee ☕
+> <img src="https://raw.githubusercontent.com/black-bots/BUTLER/main/don.png" width="25" height="25"> - **$BlackBotsNet**
 
 
 
