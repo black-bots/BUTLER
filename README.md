@@ -9,7 +9,7 @@
 
 
 ## HOW TO USE
-> Say/Ask something audibly.
+> Speak audibly / Use Hot-keys
 ### **Hot-keys
 * ctrl+space = Start BUTLER Listening
 ### **Voice Commands**
@@ -19,7 +19,7 @@
 
 # ☕ Donation Perks
 ## HOW TO USE
-* Say/Ask something audibly
+> Speak audibly / Use Hot-keys
 ### **Hot-keys
 * ctrl+space = Start BUTLER Listening
 * ctrl+b = Starts reading manga from  DaoTranslate.com (etc/read.txt)
