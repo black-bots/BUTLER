@@ -10,7 +10,7 @@
 
 ## HOW TO USE
 > Speak audibly / Use Hot-keys
-### **Hot-keys
+### Hot-keys
 * ctrl+space = Start BUTLER Listening
 ### **Voice Commands**
 * "Play music"
@@ -20,7 +20,7 @@
 # ☕ Donation Perks
 ## HOW TO USE
 > Speak audibly / Use Hot-keys
-### **Hot-keys
+### Hot-keys
 * ctrl+space = Start BUTLER Listening
 * ctrl+b = Starts reading manga from  DaoTranslate.com (etc/read.txt)
 * ctrl+n =  Starts next reading chapter
