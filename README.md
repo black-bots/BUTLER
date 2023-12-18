@@ -6,4 +6,5 @@
 > ![ICON](https://raw.githubusercontent.com/black-bots/BUTLER/main/-.ico)[Get BUTLER](https://drive.google.com/file/d/1IqHjwB7ZkwOYyaTMohQDWSjHdOaTSNnd/)
 
 ### Donate | Buy Me a Coffee ☕
-> ![](https://raw.githubusercontent.com/black-bots/BUTLER/main/don.png | width=100) $BlackBotsNet
+> ![](https://raw.githubusercontent.com/black-bots/BUTLER/main/don.png)**$BlackBotsNet**
+> <img src="(https://raw.githubusercontent.com/black-bots/BUTLER/main/don.png" width="50" height="50">**$BlackBotsNet**
